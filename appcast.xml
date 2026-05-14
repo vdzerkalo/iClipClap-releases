@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     version="2.0">
+  <channel>
+    <title>iClipClap Updates</title>
+    <item>
+      <title>iClipClap 0.2.0</title>
+      <pubDate>Чт, 14 трав. 2026 13:58:02 +0000</pubDate>
+      <enclosure
+        url="https://raw.githubusercontent.com/vdzerkalo/iClipClap-releases/main/iClipClap.zip"
+        sparkle:version="20"
+        sparkle:shortVersionString="0.2.0"
+        sparkle:minimumSystemVersion="26.0"
+        length="9327787"
+        type="application/octet-stream"
+        sparkle:edSignature="+z+6wEnRRVeOcd2HUtFChCcGOdnMEXBSwKimOo8qkFzBrG430wg9n7n3Gsiz+jkMXFva/t76fTCPiugo71G7Cw==" length="9327787" />
+    </item>
+  </channel>
+</rss>
