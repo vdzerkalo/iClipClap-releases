@@ -4,15 +4,15 @@
   <channel>
     <title>iClipClap Updates</title>
     <item>
-      <title>iClipClap 0.4.3</title>
-      <pubDate>Mon, 18 May 2026 08:37:30 +0000</pubDate>
+      <title>iClipClap 0.4.4</title>
+      <pubDate>Mon, 18 May 2026 08:57:57 +0000</pubDate>
       <enclosure
         url="https://raw.githubusercontent.com/vdzerkalo/iClipClap-releases/main/iClipClap.zip"
-        sparkle:version="043"
-        sparkle:shortVersionString="0.4.3"
+        sparkle:version="044"
+        sparkle:shortVersionString="0.4.4"
         sparkle:minimumSystemVersion="26.0"
         type="application/octet-stream"
-        sparkle:edSignature="0sI/T9NDxxEVZ4DTIqXFdMpbACH7u7hkxKNcCpLmxGiYyBrB+oiyVj7OphvpYciGLAGIstmbXZwwmx2a4k5mAg==" length="5693370" />
+        sparkle:edSignature="dJGsClPeHyPhHWUcb0glR5gqXpPwpvGtQhzoLB5NCU/9p+0IIyL3zXnYl9W/RKMuhPuoxAbOVv610NQR6tqRDQ==" length="5698697" />
     </item>
   </channel>
 </rss>
